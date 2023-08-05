@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=extenderTop.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=extenderTop.SchDoc|Designator=U_Conn2&1|SchDesignator=U_Conn2&1|FileName=Conn2&1.SchDoc|SymbolType=Normal|RawFileName=Conn2&1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=extenderTop.SchDoc|Designator=U_Conn4&3|SchDesignator=U_Conn4&3|FileName=Conn4&3.SchDoc|SymbolType=Normal|RawFileName=Conn4&3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=extenderTop.SchDoc|Designator=U_Conn6&5|SchDesignator=U_Conn6&5|FileName=Conn6&5.SchDoc|SymbolType=Normal|RawFileName=Conn6&5.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=extenderTop.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
