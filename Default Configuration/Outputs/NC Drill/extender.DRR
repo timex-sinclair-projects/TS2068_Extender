@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: extender.CSPcbDoc   8/5/2023  12:23:37 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : extender-RoundHoles.TXT
+ASCII SlotHoles File : extender-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          79               20.25 Inch (514.33 mm)
+T2        31.5mil (0.8001mm)       Round          2                0.49 Inch (12.50 mm)
+T3        38mil (0.9652mm)         Round          271              39.83 Inch (1011.65 mm)
+T4        39.37mil (1mm)           Slot           2                286.73 Inch (7282.88 mm)
+T5        40mil (1.016mm)          Round          16               7.83 Inch (198.86 mm)
+T6        130mil (3.302mm)         Round          4                13.81 Inch (350.78 mm)
+---------------------------------------------------------------------------
+Totals                                            374              368.94 Inch (9371.00 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:23:38 PM On 8/5/2023
+
+Output: Board Stack Report
+Type  : Board Stack Report
+From  : PCB Document [extender.CSPcbDoc]
+   Generated File[extender.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:23:39 PM On 8/5/2023
