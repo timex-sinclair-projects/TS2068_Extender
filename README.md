@@ -24,11 +24,11 @@ properly soldered and vertical, then solder all the remaining pins.
 4. Solder the relay and power connector. The jack side of the power connector should face the external edge of the PCB. The relay has a pin layout that fits in the PCB in only one way.
 5. Insert and solder all 4 sockets next. The foam or cardboard may come in handy for these.
 6. The last step is the most challenging: soldering the edge connector.
-   a. Holding the edge connector with both hands and the pins facing away from you, place it on a hard surface at a low angle.
-   b. Press down firmly to bend all the pins on one side and rotate the connector away from you. Your goal is to bend all pins on one side inward.
-   c. Flip the connector and do the same. Ben from ByteDelight does this in one of his videos, here: https://www.youtube.com/live/ftt2_SxY5t8?si=WbfHqXK8gkp224uI&t=9232
-   d. You should have a gap between the pins slightly less than the thickness of the board. Either slide it on from one side (sort of like a zipper) or wiggle it on like Ben does in his video.
-   e. Double-check to ensure the connector is parallel to the PCB, solder just one pin and check again that it's still parallel. If not, heat up the pin and align.
-   f. Solder all remaining pins of the connector.
-7. If you plan to use a TS Pico with the board, move the Bypass jumper for Slot one so it's just on one pin.
-8. Plug just the board in to your TS 2068, turn on the power and confirm the computer boots correctly and the LED on the expansion bus lights. If not, power off the computer, remove the expansion bus and confirm the TS 2068 works properly, then double-check all your solder connections.
+      a. Holding the edge connector with both hands and the pins facing away from you, place it on a hard surface at a low angle.
+      b. Press down firmly to bend all the pins on one side and rotate the connector away from you. Your goal is to bend all pins on one side inward.
+      c. Flip the connector and do the same. Ben from ByteDelight does this in one of his videos, here: https://www.youtube.com/live/ftt2_SxY5t8?si=WbfHqXK8gkp224uI&t=9232
+      d. You should have a gap between the pins slightly less than the thickness of the board. Either slide it on from one side (sort of like a zipper) or wiggle it on like Ben does in his video.
+      e. Double-check to ensure the connector is parallel to the PCB, solder just one pin and check again that it's still parallel. If not, heat up the pin and align.
+      f. Solder all remaining pins of the connector.
+8. If you plan to use a TS Pico with the board, move the Bypass jumper for Slot one so it's just on one pin.
+9. Plug just the board in to your TS 2068, turn on the power and confirm the computer boots correctly and the LED on the expansion bus lights. If not, power off the computer, remove the expansion bus and confirm the TS 2068 works properly, then double-check all your solder connections.
